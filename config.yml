@@ -1,2 +1,6 @@
 #原神微信积分商城
 x_rpc_token: your_token_here
+
+#海底捞
+_haidilao_app_token: TOKEN_APP_xxxxxx
+cookie: acw_tc=xxxxxx
